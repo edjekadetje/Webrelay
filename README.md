@@ -39,7 +39,7 @@ When asked for a username / password, default is admin/webrelay
     Remote Relay Ip Address: Here, enter the ip number of your web server, for us its 192.168.1.152
     Remote tcp port: 80 default
     Relay#: 1, when connecting more Webrelay units, change this number accordingly, 
-            its the relay numbner whats reported to your server.
+            its the relay number whats reported to your server.
     Password: default
     Keep alive: No, default
     
