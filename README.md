@@ -27,7 +27,7 @@ Provide 12V on the Vin+ and Vin-
 Connect ethernet cable
 Connect +5V out to one side of the switch/contact A
 Connect Input+ to the other side of the switch/contact A
-Connect Vin- to Input- ( just make a litle bridge with a wire
+Connect Vin- to Input- (just make a litle bridge with a wire)
 
 Find the ip-address of the webrelays, default its http://192.168.1.2/, for now we keep using that
 Goto http://192.168.1.2/setup.html
